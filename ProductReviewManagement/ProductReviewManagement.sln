@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductReviewManagement", "ProductReviewManagement\ProductReviewManagement.csproj", "{A2A4E2C2-FE6F-4A54-86AE-D8D4F25AFB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToDataTableDemo", "LinqToDataTableDemo\LinqToDataTableDemo.csproj", "{33F892C6-B946-45FB-BD17-6ABF5F35874E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A4E2C2-FE6F-4A54-86AE-D8D4F25AFB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A4E2C2-FE6F-4A54-86AE-D8D4F25AFB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A4E2C2-FE6F-4A54-86AE-D8D4F25AFB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A4E2C2-FE6F-4A54-86AE-D8D4F25AFB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F892C6-B946-45FB-BD17-6ABF5F35874E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F892C6-B946-45FB-BD17-6ABF5F35874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F892C6-B946-45FB-BD17-6ABF5F35874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F892C6-B946-45FB-BD17-6ABF5F35874E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCDE453-F4A3-4331-9FD0-5B316E19D58F}
+	EndGlobalSection
+EndGlobal
